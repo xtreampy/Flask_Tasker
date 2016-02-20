@@ -29,3 +29,4 @@
 404 error at 20-02-2016 18:15:35: http://localhost:5000/api/v1/tasks/2
 404 error at 20-02-2016 18:17:47: http://localhost:5000/api/v1/tasks/
 404 error at 20-02-2016 18:17:49: http://localhost:5000/api/v1/tasks/
+404 error at 20-02-2016 20:42:48: http://localhost/register/
