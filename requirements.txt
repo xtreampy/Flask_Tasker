@@ -22,7 +22,6 @@ pycparser==2.14
 pycrypto==2.6.1
 pyparsing==2.1.0
 regetron==1.4
-RunSnakeRun==2.0.4
 six==1.10.0
 SQLAlchemy==1.0.11
 SquareMap==1.0.4
