@@ -7,7 +7,6 @@ Flask==0.10.1
 Flask-Bcrypt==0.7.1
 Flask-SQLAlchemy==2.1
 Flask-WTF==0.12
-gmpy2==2.0.7
 gunicorn==19.4.5
 itsdangerous==0.24
 Jinja2==2.8
@@ -18,7 +17,6 @@ nose==1.3.7
 Pillow==3.1.1
 pycparser==2.14
 pyparsing==2.1.0
-pyPdf==1.13
 regetron==1.4
 reportlab==3.2.0
 RunSnakeRun==2.0.4
